@@ -1,4 +1,4 @@
-# Lexical-Analyzer-Parser-and-Interpreter
+# Lexical_Analyzer_Parser_and_Interpreter
 
 A compiler design project that implements a Lexical Analyzer, CFG-based Parser, and Interpreter to tokenize, parse, and execute input code. Focused on syntax analysis, semantic interpretation, and hands-on compiler construction in C++.
 
